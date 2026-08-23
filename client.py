@@ -41,7 +41,7 @@ speak_offline("Jupiter AI is connected to the UNO Q.")
 
 print()
 print("======================================")
-print("       JUPITER AI TEST MODE")
+print("       JUPITER AI ")
 print("======================================")
 print("Type a command.")
 print("Example: open chrome")
